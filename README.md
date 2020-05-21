@@ -1,9 +1,9 @@
 ![image](smartcontract.PNG)
 
-
 ## AssociateProfitSplitter
+By Roger C. Hahn
 
-This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
+Simple Solidity scripts to accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
 Deployed on Ropsten Testnet
 
@@ -44,3 +44,6 @@ Transaction Hash:
 https://ropsten.etherscan.io/tx/0x7f8046c44d94ebb0ea28117ceaee798747edd0ab14765e6f4a60b6e28371e7bd
 
 ![image](deferred.PNG)
+
+Roger C. Hahn ©
+
